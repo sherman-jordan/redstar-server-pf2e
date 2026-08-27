@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;1,400&family=Signika:wght@400;600;700&display=swap');
+
+:root {
+  --base-background-color: #1a1a1d;
+  --sidebar-background: #111113;
+  --theme-color: #8b1e1e;
+  --text-color-base: #dfd8c8;
+  --code-theme-background: #252529;
+  --border-color: #4a4035;
+}
+
+body {
+  font-family: 'Alegreya', Georgia, serif;
+  font-size: 17px;
+  line-height: 1.6;
+  background-color: var(--base-background-color);
+  color: var(--text-color-base);
+}
+
+h1, h2, h3, h4, .app-name-link {
+  font-family: 'Signika', sans-serif;
+  color: #c99c47 !important;
+  border-bottom: 1px solid var(--border-color);
+  text-shadow: 1px 1px 2px #000;
+}
+
+.sidebar {
+  background-color: var(--sidebar-background);
+  border-right: 2px solid var(--border-color);
+}
+
+.sidebar ul li a {
+  color: #a8a090;
+}
+
+.sidebar ul li a:hover,
+.sidebar ul li.active > a {
+  color: #e0d0b0;
+  border-left: 3px solid var(--theme-color);
+}
+
+blockquote {
+  border-left: 4px solid var(--theme-color);
+  background: rgba(139, 30, 30, 0.1);
+  color: #cfc6b6;
+  padding: 10px 15px;
+}

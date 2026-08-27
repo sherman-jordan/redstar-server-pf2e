@@ -1,0 +1,19 @@
+### Scene 1: Abadar's Vault
+* The party surveiles the great hall at the end of the first-level cave structure through a loophole. **Hymars** wants to launch a surprise attack on the Kobold warriors patrolling the hall. 
+* Instead, **Izabella** startles one of the nearby warriors who were unaware of the presence of the secret vault of Abadar. After reassuring him that she is not another Kobold playing a trick by throwing its voice, she parlays with a Kobold warrior named **Kerev** through the loophole, who is extremely gratified by her egregious flattery. Despite outright admitting that the party massacred his clan-mates, he agrees to fetch his boss to talk terms.
+### Scene 2: Kobolds and Traps
+* The party decides to venture into the great hall and greet the rest of the Kobold company, instead of waiting for Kerev to return. Here they meet **Trapmaster Travis**. 
+* After a lengthy discussion about the goals of the Kobolds and the place of the young dragon they are raising, **Izabella** attempts to ply the location of traps around the dungeon. After spotting one herself (which sends Travis into an existential crisis) **Izabella** convinces the psychologically broken trapmaster to serve her instead of his boss Kobold for a trial period in exchange for 1 Gold Piece. He is to attain the rank of squire in this process (a position he does not seem to understand differs from knighthood.)
+* **Syl** steals the trapmaster's moleskin with alchemist trap recipes.
+* **Pen** is instrumental in convincing the remaining Kobold warriors in the room that there is a life beyond serving a boss. However he spends most of the remainder of the exchange napping.
+* One Kobold is so excited at the idea of possessing the free - will to do as he chooses for himself that he volunteers for a deal with **Syl** unprompted. Possessing nothing of significant value, he immediately offers his soul in exchange for a hastily - made pamphlet of self - help tips on how to be your own boss. **Syl**'s patron shows **Syl** their sygil as a sign of extreme approval.
+* The Kobolds collectively decide to revolt against management and overthrow the boss to become their own bosses. They charge downstairs further into the cave network.
+### Scene 3: Kobold Lookouts
+* The party ventures downstairs but the Kobold warriors are not in the room directly below. The party is greeted by two hostile Kobold scouts who remain loyal to the boss (who turns out to be a lady - *and honestly shame on you for assuming otherwise.*)
+* ENCOUNTER: Kobold Scouts. Scouts attempt to stop party from heading north into the "smelly room." Party victory. **Izabella** loots a scout for  its crossbow.
+*  There is the sound of running water (like a fountain) to the West and a barricade to the north. Pen smells something foul like rotten fish wafting through the cracks of the barricade. The party spends 20 minutes deconstructing the barricade.
+* The party enters a passage in the cave. They come to a crossroads where a steady stream of ankle high water is flowing from a room to the West down the path that continues north. There is a blue light emanating from the room to the West and the party decides to investigate
+### Scene 4: Elements of Chaos
+* Enter a room with a dais in the center and 3 in tact glowing orbs at the three remaining corners. The fourth corner of the room has been blasted open and the water steadily running down the cavern is emanating from the cracked remains of a forth orb. The orbs glow with elemental magic.
+* The fire orb shatters open revealing a Cinder Rat guardian, who immediately attacks
+* ENCOUNTER: Cinder rat. Level 3 cinder rat proves difficult for the party - high relative AC makes it hard to hit and immunity to fire renders most of **Izabella**'s attacks impotent. Also deals persistent fire damage that almost kills **Syl**. Party realizes that the remaining orbs confer elemental damage onto their weapons and use this to defeat the rat.
