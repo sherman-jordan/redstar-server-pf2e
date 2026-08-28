@@ -1,4 +1,4 @@
-### Scene 1 Elements of Chaos
+### Scene 1: Elements of Chaos
 
 - Each party member was visited by two primal energy orbs after their battle with CinderRat - one of Earth and one of Wind, which beleaguered them until each party member chose one to bestow a blessing:
 	- **Hymars**, **Pen**, and **Izabella** chose *Blessing of the Earth*, which grants them a +2 bonus to  melee strikes for one turn within the next 24 hours, activated at the time of their choosing. **Izabella** actually didn't choose so much as defiantly swatted at the orbs and happened to touch the Earth orb.
