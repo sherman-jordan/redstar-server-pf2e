@@ -23,7 +23,7 @@ In Pathbuilder, be sure to fill out all non-archetype spell-crafting entries (th
 	* Spells*, Feats Abilities granted by Lvl 6 Archetype Feat
 4. [Equipment](#Equipment) load-out
 
-*\*If your Archetype grants spells or spell-casting please include details about the spell-casting entry, available in the description. Key stats to know:*
+&#42; *If your Archetype grants spells or spell-casting please include details about the spell-casting entry, available in the description. Key stats to know:*
 1. Spell-casting entry type (innate, prepared, spontaneous...)
 2. Tradition (arcane, divine, occult, primal)
 3. Key Attribute (cha, int, wis...)
