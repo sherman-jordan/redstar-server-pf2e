@@ -6,5 +6,4 @@
 * **Act I: The Beginning**
   * [Session 04: 08-12-2026](2026-08-12_Recap-Session-4.md)
   * [Session 05: 08-26-2026](2026-08-26_Recap-Session-5.md)
-
-* **[Level Jump Guide](2026-09-09_Jump-Level-Guide.md)**
+  * **[Level Jump Guide](2026-09-09_Jump-Level-Guide.md)**

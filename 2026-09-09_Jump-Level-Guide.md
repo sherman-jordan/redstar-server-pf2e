@@ -4,16 +4,16 @@
 
 Huge level - jump so this is probably as complex as the character creation will ever get! Sorry to over - document, but since the jump is significant so I wanted to make it as easy as possible. DM me on Discord with any questions about the process or pf2e rules, or if you need some small amount of advice about leveling decisions.
 
-### General Notes on [Pathbuilder 2e](https://pathbuilder2e.com/)
+### General Notes on  [Pathbuilder 2e](https://pathbuilder2e.com/)
 #### Free Archetype in Pathbuilder
-Pathbuilder is a freemium service. If you don't have the paid version you won't be able to enable the free archetype rule in the website, but this is fine. Build to Lvl 6 in Pathbuilder with no archetypes, then just send me your archetype build in the body of an [[#Please Send|email]] below your Pathbuilder link.
+Pathbuilder is a freemium service. If you don't have the paid version you won't be able to enable the free archetype rule in the website, but this is fine. Build to Lvl 6 in Pathbuilder with no archetypes, then just send me your archetype build in the body of an [email](#Please Send) below your Pathbuilder link.
 #### Spell-casters (and PCs with Feats that grant Spells)
 In Pathbuilder, be sure to fill out all non-archetype spell-crafting entries (the tabs with your known spells). If your Archetype grants spells or spell-crafting entries please note this under the associated feat when you email me.
 
 ### Please Send
 1. Link to level 6 character in Pathbuilder
    **Menu > Export > Share Copy of Character**
-2. Link to chosen [[#Archetypes|Archetype]] on Archives of Nethys
+2. Link to chosen [Archetype](#Archetypes) on Archives of Nethys
 3. Free Archetype Build
 	* Level 2 Dedication Feat
 	* Spells*, Feats, Abilities granted by Dedication Feat
@@ -21,7 +21,7 @@ In Pathbuilder, be sure to fill out all non-archetype spell-crafting entries (th
 	* Spells*, Feats Abilities granted by Lvl 4 Archetype Feat
 	* Level 6 (or below) Archetype Feat
 	* Spells*, Feats Abilities granted by Lvl 6 Archetype Feat
-4. [[#Equipment]] load-out
+4. [Equipment](#Equipment) load-out
 
 *\*If your Archetype grants spells or spell-casting please include details about the spell-casting entry, available in the description. Key stats to know:*
 1. Spell-casting entry type (innate, prepared, spontaneous...)
