@@ -2,11 +2,11 @@
 
 ---
 
-Huge level - jump so this is probably as complex as the character creation will ever get! Sorry to over - document, but since the jump is significant so I wanted to make it as easy as possible. DM me on Discord with any questions about the process or pf2e rules, or if you need some small amount of advice about leveling decisions.
+Huge level - jump so this is probably as complex as the character creation will ever get! Sorry to over - document, but since the jump is significant I wanted to make it as easy as possible. DM me on Discord with any questions about the process or pf2e rules, or if you need some small amount of advice about leveling decisions.
 
 ### General Notes on  [Pathbuilder 2e](https://pathbuilder2e.com/)
 #### Free Archetype in Pathbuilder
-Pathbuilder is a freemium service. If you don't have the paid version you won't be able to enable the free archetype rule in the website, but this is fine. Build to Lvl 6 in Pathbuilder with no archetypes, then just send me your archetype build in the body of an [email](#Please Send) below your Pathbuilder link.
+Pathbuilder is a freemium service. If you don't have the paid version you won't be able to enable the free archetype rule in the website, but this is fine. Build to Lvl 6 in Pathbuilder with no archetypes, then just send me your archetype build in the body of an [email](#Please%20Send) below your Pathbuilder link.
 #### Spell-casters (and PCs with Feats that grant Spells)
 In Pathbuilder, be sure to fill out all non-archetype spell-crafting entries (the tabs with your known spells). If your Archetype grants spells or spell-crafting entries please note this under the associated feat when you email me.
 
